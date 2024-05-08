@@ -34,7 +34,7 @@ getgenv().config = {
         },
         ["Blox Fruit"] = {
             ["Enable"] = true,
-            ["Delay"] = 3,
+            ["Delay"] = 4,
             ["Skills"] = {
                 ["Z"] = {
                     ["Enable"] = true,
@@ -60,7 +60,7 @@ getgenv().config = {
         },
         ["Gun"] = {
             ["Enable"] = true,
-            ["Delay"] = 1,
+            ["Delay"] = 33,
             ["Skills"] = {
                 ["Z"] = {
                     ["Enable"] = true,
@@ -74,11 +74,11 @@ getgenv().config = {
         },
         ["Sword"] = {
             ["Enable"] = true,
-            ["Delay"] = 1,
+            ["Delay"] = 4,
             ["Skills"] = {
                 ["Z"] = {
                     ["Enable"] = true,
-                    ["HoldTime"] = 2,
+                    ["HoldTime"] = 3,
                 },
                 ["X"] = {
                     ["Enable"] = true,
